@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NeUXsQeVQDSUs3cj6ybtWYgRc4sOtR0ezw1XlHzxligNJuRXW1LmhImdCIBACv1pwTenzfqFD27evpWq7MSDng==",
+  "success": true,
+  "projectFilePath": "C:\\WPFCalculator\\BinaryCalculator\\BinaryCalculator\\BinaryCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
